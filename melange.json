@@ -1,0 +1,22 @@
+{
+    "version": "0.10.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pthm/melange/releases/download/v0.10.0/melange_0.10.0_windows_amd64.zip",
+            "bin": [
+                "melange.exe"
+            ],
+            "hash": "ff6560439ebf5687f44f5551c199c32cd7877d58d50037a2af38e5282d9f1029"
+        },
+        "arm64": {
+            "url": "https://github.com/pthm/melange/releases/download/v0.10.0/melange_0.10.0_windows_arm64.zip",
+            "bin": [
+                "melange.exe"
+            ],
+            "hash": "6358909d8827933ff45c15320a43f380d88be9807b432cfe2145c05c4761b197"
+        }
+    },
+    "homepage": "https://github.com/pthm/melange",
+    "license": "MIT",
+    "description": "PostgreSQL Fine-Grained Authorization - OpenFGA to SQL compiler"
+}
