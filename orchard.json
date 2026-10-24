@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pthm/orchard/releases/download/v0.1.1/orchard_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/pthm/orchard/releases/download/v0.2.0/orchard_0.2.0_windows_amd64.zip",
             "bin": [
                 "orchard.exe"
             ],
-            "hash": "6a640434732e62f1f5613254e08cfab7f5be5bbf443c6bc149db01e957475179"
+            "hash": "f04556bed3f4c7a83796e73c46b31425da905665169243e13f56290a893a473c"
         },
         "arm64": {
-            "url": "https://github.com/pthm/orchard/releases/download/v0.1.1/orchard_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/pthm/orchard/releases/download/v0.2.0/orchard_0.2.0_windows_arm64.zip",
             "bin": [
                 "orchard.exe"
             ],
-            "hash": "5496d57b64987510e9375c1ba120b34e31fdcd9a90f1882478926048d51de656"
+            "hash": "5e207eb67049c2c4bebb9e073bb5be370a745ae0c4154c47434a7faf756026fb"
         }
     },
     "homepage": "https://github.com/pthm/orchard",
