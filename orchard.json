@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pthm/orchard/releases/download/v0.1.1/orchard_0.1.1_windows_amd64.zip",
+            "bin": [
+                "orchard.exe"
+            ],
+            "hash": "6a640434732e62f1f5613254e08cfab7f5be5bbf443c6bc149db01e957475179"
+        },
+        "arm64": {
+            "url": "https://github.com/pthm/orchard/releases/download/v0.1.1/orchard_0.1.1_windows_arm64.zip",
+            "bin": [
+                "orchard.exe"
+            ],
+            "hash": "5496d57b64987510e9375c1ba120b34e31fdcd9a90f1882478926048d51de656"
+        }
+    },
+    "homepage": "https://github.com/pthm/orchard",
+    "license": "MIT",
+    "description": "Define reproducible application state as code"
+}
