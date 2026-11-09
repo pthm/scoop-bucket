@@ -1,19 +1,19 @@
 {
-    "version": "0.10.3",
+    "version": "0.11.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pthm/melange/releases/download/v0.10.3/melange_0.10.3_windows_amd64.zip",
+            "url": "https://github.com/pthm/melange/releases/download/v0.11.0/melange_0.11.0_windows_amd64.zip",
             "bin": [
                 "melange.exe"
             ],
-            "hash": "223ff2ccf1ab20f93e7d93144104ff0ba6a093e55bb3c2e36851b2e1ba5413c4"
+            "hash": "0cd08720d8363c1d2fb85ce09ef9db37395125bbf1ab7b3b2510edb74f92a975"
         },
         "arm64": {
-            "url": "https://github.com/pthm/melange/releases/download/v0.10.3/melange_0.10.3_windows_arm64.zip",
+            "url": "https://github.com/pthm/melange/releases/download/v0.11.0/melange_0.11.0_windows_arm64.zip",
             "bin": [
                 "melange.exe"
             ],
-            "hash": "8d5ddd036c7574e58b4e3709cb5ea773795461f3feaaeac57bea76271caa16d5"
+            "hash": "b8c81c81e22e6b4265447fbd7fc73744e9e4ac40980a0c13b9d03f952145e0e3"
         }
     },
     "homepage": "https://github.com/pthm/melange",
